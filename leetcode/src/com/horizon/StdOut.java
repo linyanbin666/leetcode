@@ -16,4 +16,14 @@ public class StdOut {
 			}
 		}
 	}
+	
+	public static <T> void printArray(T[] array) {
+		for (int i = 0; i < array.length; i++) {
+			if (i == array.length - 1) {
+				System.out.print(array[i]);
+			} else {
+				System.out.print(array[i] + ",");
+			}
+		}
+	}
 }

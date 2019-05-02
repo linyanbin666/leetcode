@@ -1,11 +1,11 @@
 package com.horizon.array;
 
 /**
- * leetcode41. 缺失的第一个正数
- * 
+ * leetcode41.
+ * title: 缺失的第一个正数
+ * level: difficulty
  * @author Horizon
- *
- *         2019年4月8日下午4:56:51
+ * 2019年4月8日下午4:56:51
  */
 public class LeetCode41 {
 
